@@ -1,0 +1,52 @@
+/*GENERAL*/
+body {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+/*NAVBAR*/
+.bg-topNav {
+	background-color: rgb(0, 51, 102);
+}
+
+.bg-topNav > div {
+	padding-top: 10px;
+}
+
+.bg-topNav > div a {
+	color: white;
+	margin: 0 20px;
+}
+
+.bg-topNav > div a:hover {
+	color: rgb(0, 153, 255);
+	text-decoration: none;
+}
+
+.navbar-BS {
+	background-color: rgb(0, 153, 255);
+}
+
+.navbar-BS a {
+	color: white;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+	text-decoration: none;
+	background-color: rgb(0, 51, 102);
+}
+
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+	border-color: #337ab7;
+	background-color: rgb(0, 51, 102);
+}
+
+.navbar-BS .navbar-header a {
+	font-family: 'Coiny', cursive;
+	font-size: 2em;
+	font-weight: bolder;
+}
+/*CAROUSEL*/
+
+/*CARDS*/
+
+/*FOOTER*/
